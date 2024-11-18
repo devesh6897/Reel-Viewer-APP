@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967569032755",
+    "project_id": "reels-app-f31c9",
+    "storage_bucket": "reels-app-f31c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967569032755:android:18be2644327b1e33308546",
+        "android_client_info": {
+          "package_name": "com.example.reelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4szin-dBaYHwCtco8r_0cUPEMQbzI9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
